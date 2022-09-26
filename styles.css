@@ -67,12 +67,14 @@ ul>.list-group-item {
     max-height: 500px;
 }
 
-.gif-portion {
+.img-portion {
     width: 500px;
     height: 500px;
-    display: none;
+    display: block;
 }
 
+
+/*
 @media screen and (min-width: 575px) {
     .gif-portion {
         display: block;
@@ -81,6 +83,7 @@ ul>.list-group-item {
         display: none;
     }
 }
+*/
 
 
 /*===========
